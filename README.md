@@ -28,6 +28,7 @@ The data used for this analysis is sourced from the same [Kaggle](https://www.ka
 
 
 ## Results
+The Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/fairuz.hashim/viz/OlistCustomerRatingsByState/Dashboard2). 
 
 ## Future Work
 Future iterations of this analysis could involve:
