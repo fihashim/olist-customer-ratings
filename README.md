@@ -31,7 +31,7 @@ The data used for this analysis is sourced from the same [Kaggle](https://www.ka
 5. Which product categories obtain the most positive review scores? Which product categories have the most lowest review scores? 
 
 ## Results
-The Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/fairuz.hashim/viz/OlistCustomerRatingsByState/Dashboard2). 
+The queries used for analysis are located in [here](https://github.com/fihashim/olist-customer-ratings/blob/main/olist-bigquery.ipynb) and the Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/fairuz.hashim/viz/OlistCustomerRatingsByState/Dashboard2). 
 
 ## Future Work
 Future iterations of this analysis could involve:
