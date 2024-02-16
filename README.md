@@ -17,7 +17,7 @@ The data used for this analysis is sourced from the same [Kaggle](https://www.ka
 
 <img src="https://github.com/fihashim/olist-customer-ratings/assets/42868568/d624649c-c139-4f14-8ed9-d22cfe51cac8" width=1.8% height=1.8%> **Jupyter Notebooks:** Utilized for documenting analysis workflows, running Google BigQuery queries, and viewing data tables. <br>
 
-Tableau: Employed for visually presenting trends and patterns discovered from the analysis queries.
+<img src= "https://github.com/fihashim/olist-customer-ratings/assets/42868568/11650268-5e0a-448a-a67f-67d6bc7e7d63" width=1.8% height=1.8%> **Tableau:** Employed for visually presenting trends and patterns discovered from the analysis queries.
 
 
 
