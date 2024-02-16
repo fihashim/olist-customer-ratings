@@ -13,8 +13,11 @@ The motivation behind this analysis is to:
 The data used for this analysis is sourced from the same [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) dataset provided, specifically focusing on customer ratings, corresponding geographical information as well as product categories. 
 
 ## Tools and Technologies
-Google BigQuery: Employed for efficiently querying and analyzing large datasets. 
-Jupyter Notebooks: Utilized for documenting analysis workflows, running Google BigQuery queries, and viewing data tables.
+<img src="https://github.com/fihashim/olist-customer-ratings/assets/42868568/d4965652-158a-49d5-a413-974bcaaad7ea" width=1.8% height=1.8%> Google BigQuery: Employed for efficiently querying and analyzing large datasets. <br>
+
+<img src="https://jupyter.org/assets/share.png" width = 4.4% height=4.4%> Jupyter Notebooks: Utilized for documenting analysis workflows, running Google BigQuery queries, and viewing data tables. <br>
+
 Tableau: Employed for visually presenting trends and patterns discovered from the analysis queries.
+
 
 
