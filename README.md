@@ -15,7 +15,7 @@ The data used for this analysis is sourced from the same [Kaggle](https://www.ka
 ## Tools and Technologies
 <img src="https://github.com/fihashim/olist-customer-ratings/assets/42868568/d4965652-158a-49d5-a413-974bcaaad7ea" width=1.8% height=1.8%> Google BigQuery: Employed for efficiently querying and analyzing large datasets. <br>
 
-<img src="https://jupyter.org/assets/share.png" width = 4.4% height=4.4%> Jupyter Notebooks: Utilized for documenting analysis workflows, running Google BigQuery queries, and viewing data tables. <br>
+<img src="https://github.com/fihashim/olist-customer-ratings/assets/42868568/547a4a3b-6957-4094-b337-a20f56781532" width=5% height=5%> Jupyter Notebooks: Utilized for documenting analysis workflows, running Google BigQuery queries, and viewing data tables. <br>
 
 Tableau: Employed for visually presenting trends and patterns discovered from the analysis queries.
 
