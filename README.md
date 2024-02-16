@@ -23,9 +23,12 @@ The data used for this analysis is sourced from the same [Kaggle](https://www.ka
 
 <img src= "https://github.com/fihashim/olist-customer-ratings/assets/42868568/11650268-5e0a-448a-a67f-67d6bc7e7d63" width=1.8% height=1.8%> **Tableau:** Employed for visually presenting trends and patterns discovered from the analysis queries.
 
-## Analysis Steps 
-
-
+## Key Questions: 
+1. What is the overall average review score in Brazil?
+2. What is the total number of reviews made for each state? 
+3. How do the review scores vary when comparing delivered orders vs. non-delivered orders (shipped/unavailable/invoiced/approved/created/processing) in percentage?
+4. How do the review scores vary between delivered orders that were made early/on-time vs. late?
+5. Which product categories obtain the most positive review scores? Which product categories have the most lowest review scores? 
 
 ## Results
 The Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/fairuz.hashim/viz/OlistCustomerRatingsByState/Dashboard2). 
