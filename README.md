@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IhjNmnCj2C4bXcak0ON8SBiSC2TxSbibs9MrpOFKGQ&s"width=20% height=20%><img src="https://github.com/fihashim/olist-customer-ratings/assets/42868568/cc565172-0b47-41e4-bada-e9ea1a927b17" width=50% height=50%>
+</p>
+
 # Understanding Olist's Customer Ratings Across Brazilian States
 This project builds upon a previous EDA conducted on Olist's ecommerce business found [here](https://github.com/fihashim/olist-eda). Leveraging Google BigQuery and Tableau, the analysis focuses on exploring customer ratings data in more depth to understand variations across different Brazilian states and uncover insights to inform business strategies.
 
